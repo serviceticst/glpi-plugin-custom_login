@@ -1,5 +1,4 @@
-# glpi-plugin-custom_login
-Hybrid plug-in to customize the homepage of GLPI 10.0.5 > and GLPI 9.5.11 >
+# Hybrid plug-in to customize the homepage of GLPI 10.0.5 > and GLPI 9.5.11 >
 
 
 1. Extract the ZIP file in /usr/share/glpi/plugins after installation and activation.
