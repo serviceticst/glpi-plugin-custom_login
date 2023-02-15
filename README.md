@@ -9,7 +9,12 @@
 
 ## 3. The background image can be replaced with the image in the /glpi/plugins/glpijccustomlogin/pics/dev_background.png folder.
 
-## 4. Final result
+## 4. Final result version 10.0.6
 
 ![image](https://user-images.githubusercontent.com/70910492/218898773-59e6ac27-a68f-46b2-9835-38d26145baca.png)
+
+## 5. Final result version 9.5.12
+
+![image](https://user-images.githubusercontent.com/70910492/218898922-2678d4d4-3bbc-4d60-9608-ea0f851e223d.png)
+
 
