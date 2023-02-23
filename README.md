@@ -1,5 +1,7 @@
 # Hybrid plug-in to customize the homepage of GLPI 10.0.5 > and GLPI 9.5.11 >
 
+### TUTORIAL: https://www.youtube.com/watch?v=Blwtp5vsHH4&t
+
 
 ## 1. Extract the ZIP file in /usr/share/glpi/plugins after installation and activation.
 ![image](https://user-images.githubusercontent.com/70910492/218893935-1582a509-0561-4d0c-b753-11eb2f8e329e.png)
