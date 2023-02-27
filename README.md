@@ -2,6 +2,8 @@
 
 ### TUTORIAL: https://www.youtube.com/watch?v=Blwtp5vsHH4&t
 
+Forked from: https://github.com/stdonato/glpi-modifications
+
 
 ## 1. Extract the ZIP file in /usr/share/glpi/plugins after installation and activation.
 ![image](https://user-images.githubusercontent.com/70910492/218893935-1582a509-0561-4d0c-b753-11eb2f8e329e.png)
